@@ -10,3 +10,4 @@ GH_CLIENT_SECRET=XXXXXXXXXXXXXXX
 ```
 
 Demonstrates how to use GitHub OAuth on any NextJS app to provide a "Login with GitHub" feature.
+

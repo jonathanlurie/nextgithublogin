@@ -1,0 +1,74 @@
+.container {
+  text-align: center;
+  width: 70vmin;
+  height: max-content;
+  /* background-color: rgb(243, 249, 255); */
+  background-color: white;
+  padding: 20px;
+  border-radius: 3px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+
+  -webkit-box-shadow: 0px 3px 24px 5px rgba(0,0,0,0.17); 
+  box-shadow: 0px 3px 24px 5px rgba(0,0,0,0.17);
+}
+
+.picture {
+  text-align: center;
+}
+
+.picture img {
+  border-radius: 50%;
+  width: 30%;
+  height: auto;
+}
+
+.displayName {
+  font-size: 2.5em;
+}
+
+.handle {
+  color: #309df9;
+}
+
+.spacer10px {
+  width: 10px;
+  height: 10px;
+}
+
+.logoutButton {
+  width: 100%;
+  background: #ff5252;
+  border-radius: 2px;
+  padding: 5px 0px;
+  color: #ffffff;
+  border-bottom: 1px solid #c93e3e;
+}
+
+.logoutButton:hover {
+  background: #d63838;
+}
+
+
+.revokeButton {
+  width: 100%;
+  background: #aa0000;
+  border-radius: 2px;
+  padding: 5px 0px;
+  color: #ffffff;
+  border-bottom: 1px solid #610100;
+}
+
+.revokeButton:hover {
+  background: #680303;
+}
+
+.moreInfo {
+  width: 100%;
+  height: 80px;
+  resize: vertical;
+}

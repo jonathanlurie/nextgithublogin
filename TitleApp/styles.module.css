@@ -1,0 +1,15 @@
+.title {
+  font-size: 3em;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  font-weight: 900;
+  color: #236196;
+  margin-bottom: 25px;
+  background: #39F0E3;
+  background: #39F0E3;
+  background: linear-gradient(to right, #39F0E3 0%, #FA50E3 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+
+}
